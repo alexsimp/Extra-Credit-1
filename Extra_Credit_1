@@ -1,0 +1,6 @@
+int main {
+int x;
+scanf ("%d");
+printf("%d", x);
+return 0;
+}
